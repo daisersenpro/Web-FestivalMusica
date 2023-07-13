@@ -1,12 +1,12 @@
 {
   "name": "festival-musica",
   "version": "1.0.0",
-  "description": "Curso Desarrollo Web Completo",
+  "description": "Desarrollo Web Completo",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Juan De La Torre",
+  "author": "Anyelo Bustos Galdames",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^5.1.0",
